@@ -1,0 +1,8 @@
+Bill breakdown: 
+pizza:                    ...$4.5
+french fries:             ...$2
+onion rings:              ...$3.5
+coke:                     ...$3
+bread:                    ...$2.5
+tip:                      ...$0
+total:                    ...$15.50

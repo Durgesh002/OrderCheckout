@@ -1,0 +1,10 @@
+Bill breakdown: 
+pasta:                    ...$7.5
+wholewheat bread:         ...$2.8
+coke:                     ...$2
+cake:                     ...$8
+pizza:                    ...$6.5
+french fries:             ...$2
+burger:                   ...$5.6
+tip:                      ...$0
+total:                    ...$34.40
